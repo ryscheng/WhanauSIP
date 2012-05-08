@@ -16,5 +16,9 @@ Licensed GPL v3.0
 Running
 -------
 See the code at for some example initialization code.
-  src/edu/mit/csail/whanausip/dht/tester/WhanauLocalTester.java 
+src/edu/mit/csail/whanausip/dht/tester/WhanauLocalTester.java 
 
+The code hasn't been run or tested since moving to GitHub, 
+and likely requires a bit of updating.
+The DHT at least depends on the following, perhaps more:
+  - Bouncy Castle JDK1.6-143
